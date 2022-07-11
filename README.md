@@ -1,5 +1,5 @@
-# Livro de receitas
+# Livro de receitas 👨‍🍳
 
-## Olá seja bem-vindo ao meu liro de receitas
+### Olá seja bem-vindo ao meu livro de receitas 👋
 
 1. Strogonoff
